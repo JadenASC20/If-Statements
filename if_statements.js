@@ -81,7 +81,13 @@ for (x = 0; x <= 10; x++) {
     console.log('this was printed', x, 'times!' );
 }
 
-// As one can see it is much easier than a WHILE loop and can 
+/*
+As one can see it is much easier than a WHILE loop and can do about the same things in shorter lines of code. You will learn more about the 
+differences in while and for loops in the upcoming lesson
+
+You have reached the end of this repo, Great Job!
+
+*/
 
 
 
